@@ -103,7 +103,7 @@ export default {
         {
           "callsign": "Remus",
           "alias": "Zev Tallin",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "code": "515c99bc-a19e-477d-bf14-f79aedc0b2d9//40fbc9e7-1cff-467f-aec6-2d6541cc5cb9",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Dawn and Eclipse"
@@ -111,7 +111,7 @@ export default {
         {
           "callsign": "Time-of-Death",
           "alias": "Andrea Harrison",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "code": "e71bc9e8-019c-400d-9e47-d917d3abf17f//ebbdaae1-4e7f-4b23-aac5-cf245bb0eace",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Phenobarbitol"
@@ -119,7 +119,7 @@ export default {
         {
           "callsign": "Prometheus",
           "alias": "Elias Teller",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
+          "code": "020597fb-8fb4-4722-9f94-29ab74b83c43//54454372-9ea4-4cc0-a4f6-815832b03e3e",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Quasar"
@@ -127,7 +127,7 @@ export default {
         {
           "callsign": "Caliban",
           "alias": "Ösel",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
+          "code": "b15d0ff7-f18c-4f85-92ca-502b27bf8ec5//46053bb8-3e1e-475c-a40d-4f8e1a959187",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Kilmer"
@@ -135,7 +135,7 @@ export default {
         {
           "callsign": "Reaper",
           "alias": "Emmit Ashcroft",
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "code": "a962811a-0823-45a9-a8c7-e2a531f73dab//e1382a89-d897-4c0e-826e-07a1260fe4c3",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "The Jackhammer"
@@ -148,7 +148,7 @@ export default {
         "gate": "Cerro-Barajas",
         "ring": "Sierra-Madre",
         "headerTitle": "Union",
-        "headerSubtitle": "Department of Justice / Human Rights",
+        "headerSubtitle": "DoJ / HR",
         "subheaderTitle": "Special Circumstances",
         "subheaderSubtitle": 'SC-174 "Joy Division"',
       },
