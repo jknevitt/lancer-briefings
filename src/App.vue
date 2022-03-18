@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "Training Excercise EAGER SPEARPOINT",
           "status": "start"
         },
       ],
