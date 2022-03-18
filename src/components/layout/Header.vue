@@ -1,7 +1,7 @@
 <template>
   <header class="clipped-x-large-forward">
     <div class="title clipped-x-large-forward">
-      <img class="logo" src="/icons/company-icon.svg" />
+      <img class="logo" src="https://github.com/massif-press/compcon/blob/1fc1a45c01c5e578e2ff0ae1435abe2b9801467d/public/static/img/logo/union.svg" />
       <div class="title-container">
         <div class="title-row" id="title-first-line">
           <span id="title-header">{{ header.headerTitle }}</span>
