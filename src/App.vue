@@ -127,7 +127,7 @@ export default {
         {
           "callsign": "caliban",
           "alias": "Ösel",
-          "code": "46053bb8-3e1e-475c-a40d-4f8e1a959187",
+          "code": "b15d0ff7-f18c-4f85-92ca-502b27bf8ec5//46053bb8-3e1e-475c-a40d-4f8e1a959187",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Kilmer"
