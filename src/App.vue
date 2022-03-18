@@ -144,9 +144,9 @@ export default {
       "header": {
         "planet": "Rocosa",
         "year": "5016u",
-        "system": "Cerro-Barajas",
-        "gate": "Cerro-Barajas",
-        "ring": "Sierra-Madre",
+        "system": "Cerro Barajas",
+        "gate": "Cerro Barajas",
+        "ring": "Sierra Madre",
         "headerTitle": "Union",
         "headerSubtitle": "DoJ / HR",
         "subheaderTitle": "Special Circumstances",
