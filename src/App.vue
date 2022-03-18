@@ -95,13 +95,13 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Training Excercise EAGER SPEARPOINT",
+          "name": "TX EAGER SPEARPOINT",
           "status": "start"
         },
       ],
       "pilots": [
         {
-          "callsign": "Remus",
+          "callsign": "remus",
           "alias": "Zev Tallin",
           "code": "515c99bc-a19e-477d-bf14-f79aedc0b2d9//40fbc9e7-1cff-467f-aec6-2d6541cc5cb9",
           "corpro": "GMS",
@@ -109,7 +109,7 @@ export default {
           "mech": "Dawn and Eclipse"
         },
         {
-          "callsign": "Time-of-Death",
+          "callsign": "time-of-death",
           "alias": "Andrea Harrison",
           "code": "e71bc9e8-019c-400d-9e47-d917d3abf17f//ebbdaae1-4e7f-4b23-aac5-cf245bb0eace",
           "corpro": "GMS",
@@ -117,7 +117,7 @@ export default {
           "mech": "Phenobarbitol"
         },
         {
-          "callsign": "Prometheus",
+          "callsign": "prometheus",
           "alias": "Elias Teller",
           "code": "020597fb-8fb4-4722-9f94-29ab74b83c43//54454372-9ea4-4cc0-a4f6-815832b03e3e",
           "corpro": "GMS",
@@ -133,7 +133,7 @@ export default {
           "mech": "Kilmer"
         },
         {
-          "callsign": "Reaper",
+          "callsign": "reaper",
           "alias": "Emmit Ashcroft",
           "code": "a962811a-0823-45a9-a8c7-e2a531f73dab//e1382a89-d897-4c0e-826e-07a1260fe4c3",
           "corpro": "GMS",
