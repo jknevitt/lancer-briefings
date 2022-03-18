@@ -125,7 +125,7 @@ export default {
           "mech": "Quasar"
         },
         {
-          "callsign": "Caliban",
+          "callsign": "caliban",
           "alias": "Ösel",
           "code": "46053bb8-3e1e-475c-a40d-4f8e1a959187",
           "corpro": "GMS",
