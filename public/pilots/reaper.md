@@ -1,0 +1,1 @@
+Emmit grew up on a ripper station as an urchin, scavenging parts from the trash to resell for money. It was a tough life, which is why they joined as a conscript into Harrison's Amory. As they completed missions, and were regularly wounded, HA replaced body parts and organs with experimental artificial parts.
