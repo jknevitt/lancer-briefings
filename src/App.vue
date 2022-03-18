@@ -148,7 +148,7 @@ export default {
         "gate": "Cerro-Barajas",
         "ring": "Sierra-Madre",
         "headerTitle": "Union",
-        "headerSubtitle": "DOJ / HR",
+        "headerSubtitle": "Department of Justice / Human Rights",
         "subheaderTitle": "Special Circumstances",
         "subheaderSubtitle": 'SC-174 "Joy Division"',
       },
