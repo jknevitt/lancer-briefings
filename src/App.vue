@@ -150,7 +150,7 @@ export default {
         "headerTitle": "Union",
         "headerSubtitle": "DoJ / HR",
         "subheaderTitle": "Special Circumstances",
-        "subheaderSubtitle": 'SC-174 "Good Enough for Union Work"',
+        "subheaderSubtitle": 'SC-174 "Good Enough"',
       },
       "options":{
         "eventsMarkdownPerMission": true
